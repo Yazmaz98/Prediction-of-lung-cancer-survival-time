@@ -1,6 +1,6 @@
 # Prediction-of-lung-cancer-survival-time
 
-Le projet est divise en deux parties que nous avons mises dans 2 notebooks:
+Le projet est divisé en deux parties que nous avons mises dans 2 notebooks:
   - lung_cancer_scans.ipynb : travail sur les images, plusieurs modèles
   - numerical_categorical_data.ipynb : travail sur les données cliniques csv
   
